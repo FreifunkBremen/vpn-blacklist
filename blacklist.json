@@ -1,10 +1,5 @@
 {
     "peers": [
-        {
-            "key": "4ccd67dc5778525fe5732cd38b2047fb6e61c2830c85d9c55c62fc4a95161928",
-            "reason": "Potential loop (Palando-OL)",
-            "added": "2026-11-02T22:01+01:00"
-        }
     ],
-    "updated": "2026-11-02T22:01+01:00"
+    "updated": "2026-11-03T20:07+01:00"
 }
